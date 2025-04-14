@@ -1,0 +1,20 @@
+FRY001;Weekly;Chicken Breast;Meat;100;5.00;Yes
+FRY002;Monthly;Breading Mix;Seasoning;50;3.00;Yes
+FRY003;Weekly;Seasoning Blend;Seasoning;75;2.50;No
+FRY004;Monthly;Chicken Wings;Meat;200;10.00;Yes
+FRY005;Weekly;Spicy Sauce;Condiment;30;4.50;Yes
+FRY006;Monthly;Oil for Frying;Cooking Oil;150;8.00;No
+FRY007;Weekly;Potato Wedges;Side Dish;80;2.50;Yes
+FRY008;Monthly;Pickles;Condiment;40;1.50;No
+FRY009;Weekly;Coleslaw Mix;Side Dish;120;3.00;Yes
+FRY010;Monthly;Hot Sauce;Condiment;90;4.00;No
+FRY011;Weekly;Buttermilk;Dairy;60;1.50;Yes
+FRY012;Monthly;Honey for Drizzling;Sweetener;180;6.00;No
+FRY013;Weekly;Cornmeal;Grain;70;2.00;Yes
+FRY014;Monthly;Garlic Powder;Spice;35;3.50;Yes
+FRY015;Weekly;Paprika;Spice;110;2.50;No
+FRY016;Monthly;Black Pepper;Spice;100;1.00;Yes
+FRY017;Weekly;Cayenne Pepper;Spice;45;1.00;No
+FRY018;Monthly;Onion Powder;Spice;130;2.00;Yes
+FRY019;Weekly;Flour;Baking;85;1.50;No
+FRY020;Monthly;Salt;Spice;55;0.50;Yes
